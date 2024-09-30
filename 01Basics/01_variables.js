@@ -13,3 +13,4 @@ the var is functional scope variable and let is Block Scope Variable
 Matlab Agar kise ke aage let likha hai toh uski value Change Bhi ho Sakti hai or Vo ek block scope
 matlab {}iske andar hi defined hai agar var assigned hai toh vo puri file mai globally defined hai
 */
+// Prefer not to use var because of functional Scope it may lead to DataCorruption
